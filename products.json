@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "Pigue",
+    "price": 9000,
+    "image": "image/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Reta",
+    "price": 8800,
+    "image": "image/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Goudge",
+    "price": 7500,
+    "image": "image/3.jpg"
+  },
+
+  {
+    "id": 13,
+    "name": "Pomán",
+    "price": 11000,
+    "image": "image/13.jpg"
+  },
+
+  {
+    "id": 9,
+    "name": "Aimogasta",
+    "price": 9500,
+    "image": "image/9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Hale",
+    "price": 8000,
+    "image": "image/10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Rabas",
+    "price": 7000,
+    "image": "image/11.jpg"
+  },
+
+  {
+    "id": 12,
+    "name": " Milanesa con Papas Fritas",
+    "price": 8000,
+    "image": "image/12.jpg"
+  },
+
+  {
+    "id": 4,
+    "name": " Papas Fritas",
+    "price": 3000,
+    "image": "image/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Papas Fritas c/ Cheddar y Bacon",
+    "price": 4000,
+    "image": "image/5.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Papas Fritas c/ Crema de Verdeo",
+    "price": 4000,
+    "image": "image/14.jpg"
+  },
+
+  {
+    "id": 15,
+    "name": "Tequeños",
+    "price": 6000,
+    "image": "image/15.jpg"
+  },
+
+  {
+    "id": 6,
+    "name": "CocaCola",
+    "price": 2000,
+    "image": "image/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Fanta",
+    "price": 2000,
+    "image": "image/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sprite",
+    "price": 2000,
+    "image": "image/8.jpeg"
+  },
+  {
+    "id": 16,
+    "name": "Pinta de Heineken",
+    "price": 3000,
+    "image": "image/16.jpg"
+  }
+]
